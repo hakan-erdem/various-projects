@@ -1,3 +1,7 @@
+|-----------------------------------------|
+| TYPHON PROJECT - TYPING CALCULATOR/GAME |
+|-----------------------------------------|
+
 Notes:
 - Admin password for deleting the leaderboard is: itu_yzv
 
